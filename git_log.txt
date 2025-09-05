@@ -1,0 +1,95 @@
+commit f3470479397ef46f5a4b79129d0156be16d37aaf
+Merge: 04bea68 e2b5918
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 13:02:03 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 04bea68b6566aee2d193227f8dc20671383097fc
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 13:00:17 2025 -0700
+
+    Update index.html
+
+commit e2b591810377d8c4a22d7714149b641651498f2f
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:59:38 2025 -0700
+
+    Update index.html
+
+commit 2f1df5017b88462577df450f976a9e58cd1471bf
+Merge: 1d2bfc0 b116736
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:57:28 2025 -0700
+
+    On index-fix: !!GitHub_Desktop<index-fix>
+
+commit b1167361f2805205804c29852475c152f322df9d
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:57:28 2025 -0700
+
+    index on index-fix: 1d2bfc0 Added index.html
+
+commit 1eba4e17376903bb1ab8914b22d8b26efdc51805
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:56:05 2025 -0700
+
+    Update index.html
+
+commit 50861278e306ab08db9002bfe74140225c6197b7
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:55:13 2025 -0700
+
+    Update index.html
+
+commit 5c4a78b17c23b574855bcec5b28a3632598797da
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:51:19 2025 -0700
+
+    Update index.html
+
+commit 8a629b4889cfca1c35ef56728d374819f1b4e71f
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:48:24 2025 -0700
+
+    Create README.md
+
+commit a82a29735b390060fc98a273ac07820f2a9184c0
+Author: xandrxz <alexjacobo695@gmail.com>
+Date:   Fri Sep 5 12:45:43 2025 -0700
+
+    Update index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
